@@ -1,7 +1,7 @@
 
-  # Continue Dashboard Design (Copy)
+  # Hmpssdbismillah
 
-  This is a code bundle for Continue Dashboard Design (Copy). The original project is available at https://www.figma.com/design/0qhVqQxwwiRIKxVdyYslnq/Continue-Dashboard-Design--Copy-.
+  This is a code bundle for Hmpssdbismillah. The original project is available at https://www.figma.com/design/0qhVqQxwwiRIKxVdyYslnq/Hmpssdbismillah.
 
   ## Running the code
 
